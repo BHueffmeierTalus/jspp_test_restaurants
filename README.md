@@ -3,6 +3,6 @@
 
 ## What is this?
 
-This is a repo with recommedatinos of restaurants.
+This is a repo with recommendations of restaurants.
 
 
